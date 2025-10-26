@@ -1,0 +1,5 @@
+
+project_id = "nstvtjtbgofksvzyusqg"
+
+[functions.analyze-logs]
+verify_jwt = false
